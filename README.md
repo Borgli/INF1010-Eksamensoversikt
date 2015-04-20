@@ -180,3 +180,8 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 - 2013u (Hans)
 - 2013 (Binærtre gjøres om til HashMap) (Stein Michael)
 - 2011U (Stein Michael)
+
+##Hall of Shame:
+- 2009
+- 2014
+- 2007 (2-4)
