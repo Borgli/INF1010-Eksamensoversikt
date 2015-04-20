@@ -93,9 +93,9 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 | 5-8 | 3a |
 ####Rekursjon:
 #####Eksamener:
-| 2009 | 2006 |
-|------|------|
-| 4-6 | 11 |
+| 2009 | 2006 | 2004 |
+|------|------|------|
+| 4-6 | 11 | Del 2 |
 #####Konteeksamener:
 | 2014 | 2011 | 2009 | 2008 | 2005 | 2004 |
 |------|------|------|------|------|------|
@@ -157,3 +157,20 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 | **2006**  |   X   |   X   |   X   |
 | **2005**  |   X   |   X   |       |
 | **2004**  |   X   |       |   X   |
+
+##Oppgaver Hall of Fame:
+- 2011 - Del A (Stein Michael)
+#####Modellering/klassehierarki:
+- 2005 - 1
+- 2007 - 1
+- 2011 - Del B
+#####Trådoppgave:
+#####GUI:
+- 2012U - 3 (Tallpuslespill) (Henrik)
+
+##Eksamenshefter Hall of Fame:
+- 2012 (Henrik)
+- 2014u (Rune)
+- 2013u (Hans)
+- 2013 (Binærtre gjøres om til HashMap) (Stein Michael)
+- 2011U (Stein Michael)
