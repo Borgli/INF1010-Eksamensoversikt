@@ -159,7 +159,9 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 | **2004**  |   X   |       |   X   |
 
 ##Oppgaver Hall of Fame:
+
 - 2011 - Del A (Stein Michael)
+
 #####Modellering/klassehierarki:
 
 - 2005 - 1
