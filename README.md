@@ -169,6 +169,10 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 
 #####Trådoppgave:
 
+#####Rekursjon:
+
+- 2004 - Del 2
+
 #####GUI:
 
 - 2012U - 3 (Tallpuslespill) (Henrik)
