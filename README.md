@@ -140,7 +140,6 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 - Oppgavene i eksamenssettet kan ofte ikke løses hver for seg.
 - Oppgavene er puttet inn i kategorien som passer best, kan ofte passe i flere.
 - Noen oppgaver går igjen i flere eksamener.
-- () rundt kategorier som ikke er aktuelle.
 
 ##Eksamener sjekket:
 
@@ -179,7 +178,7 @@ NOTIS: Prøveeksamen 2010 Del B er identisk med Eksamen 2009. Oppgave 10 fra 201
 - 2014u (Rune)
 - 2013u (Hans)
 - 2013 (Binærtre gjøres om til HashMap) (Stein Michael)
-- 2011U (Stein Michael)
+- 2011u (Stein Michael)
 
 ##Hall of Shame:
 - 2009
